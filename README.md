@@ -1,0 +1,2 @@
+# Introduction-to-Data-Science-and-Machine-Learning
+The course introduces students to the basics of machine learning and is designed primarily for those students who are just starting their journey in Data Science. We will go over the basic theoretical concepts in detail, as well as begin our acquaintance with the Pandas and Scikit-learn libraries - the most popular tools for data analysis and machine learning using the Python programming language.
