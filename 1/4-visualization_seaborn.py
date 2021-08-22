@@ -149,7 +149,7 @@ sns.lineplot(x=df.index, y=df.income)
 # In[28]:
 
 
-f = pd.read_csv(https://stepik.org/api/attempts/441797315/file)
+f = pd.read_csv(https://stepik.org/api/attempts/441797315/file)//
 
 
 # In[29]:
